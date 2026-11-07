@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kumari N Shalini 👋
 
-<!--
-**kumari-n-shalini-03/kumari-n-shalini-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Freelance Data Dashboard Analyst** | Looker Studio · Power BI · Impact Reporting
 
-Here are some ideas to get you started:
+I turn research, evaluation and programme data into clear, shareable dashboards for research teams, charities and consultancies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured work
+- **Cumbria LINK Evaluation Dashboard** (Looker Studio): https://datastudio.google.com/s/p4Zs-lZyUoo  
+  Interactive summary of a UK social prescribing evaluation: outcomes, referrals and value for money.
+- **Data Science Planning Portfolio**: project planning and analysis work
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/kumari-shalini-02522a137
+- Time zone: IST (UTC+5:30)
